@@ -1,4 +1,6 @@
-![cover](https://raw.githubusercontent.com/raisedadead/raisedadead/master/assets/cover.png)
+<div align="center">
+  <img src="https://github.com/raisedadead/raisedadead/raw/master/cover.svg?sanitize=true">
+</div>
 
 Hello! :wave:
 
