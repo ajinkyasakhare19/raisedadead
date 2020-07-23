@@ -1,18 +1,28 @@
 <div align="center">
-  <img src="https://github.com/raisedadead/raisedadead/raw/master/cover.svg?sanitize=true">
+  <img src="https://github.com/raisedadead/raisedadead/raw/master/cover.svg?sanitize=true" />
 </div>
 
-Hello! :wave:
+<div align="center">
+  <h3>
+    developer 👨‍💻 • music addict 🎸 • open source enthusiast🌟 • photography noob 📷 • travel 🥑
+  </h3>
+  <hr />
+</div>
 
-I am Mrugesh "raisedadead" Mohapatra.
+### Hello! 👋
 
-Lately, have been working on full stack Open Source projects in JavaScript, with modern technologies, frameworks and libraries, like Node.js, React, Express, MongoDB & related ecosystems.
+I am **Mrugesh** and currently I am working on full stack Open Source projects in JavaScript, with
+modern technologies, frameworks and libraries, like Node.js, React, Express,
+MongoDB & related ecosystems.
 
-Well versed in deploying applications to most cloud service providers, including DigitalOcean, Amazon Web Services, Microsoft Azure & Others.
+I am well versed in deploying applications to most cloud service providers, including
+DigitalOcean, Amazon Web Services, Microsoft Azure & Others.
 
-Previously, have worked on modern Computer Vision technologies in JavaScript, like Three.js & WebGL. And in the earlier days, have worked largely on Windows platforms, including developing apps in MFC, COM & C++.
+Previously, I have worked on modern Computer Vision technologies in JavaScript,
+like Three.js & WebGL. And in the earlier days, I have worked largely on Windows
+platforms, including developing apps in MFC, COM & C++.
 
-Currently, I am based out of Bengaluru, India.
+A hardcore music addict and Open Source enthusiast. When not hooked to my
+notebook, I love going to rock gigs, and traveling the world with friends.
 
-A hardcore music addict and Open Source enthusiast. When not hooked to my notebook, love going to rock gigs, and traveling the world with friends.
-
+Cheers.
